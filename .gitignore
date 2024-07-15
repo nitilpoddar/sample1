@@ -1,0 +1,8 @@
+.venv/
+
+
+#Ignore logs
+*.log
+
+#Ignore enviroment variables file
+.env
